@@ -1,4 +1,4 @@
 # Currency-Converter
-UI Design i not yet finish and the calculation of conversion is not precise since the mvc is not using api..
+The Design is decent and the conversion is working properly with the use of currency api.
 
 
